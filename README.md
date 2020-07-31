@@ -20,7 +20,6 @@ password: 12345678
 login: pikachu
 password: 12345678
 ```
-
 **Step 4** - _start server_
 ```
 pm2 start app.js
