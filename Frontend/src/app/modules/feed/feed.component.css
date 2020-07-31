@@ -1,0 +1,18 @@
+.feed{
+  width: 100%;
+  background-color: #f8f9fa;
+  position: relative;
+}
+
+.feed-img{
+  width: 100px;
+  height: 100px;
+  border-radius: 1rem;
+}
+
+.modal-feeds{
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+}
